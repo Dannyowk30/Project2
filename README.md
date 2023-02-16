@@ -1,2 +1,2 @@
 # Project2
-self description and expectations from pat internship
+self description and expectations from pmt internship
